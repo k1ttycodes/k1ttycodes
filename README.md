@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="banner.png" alt="GitHub Banner" width="100%">
+</p>
+
+<br>
+
 # Welcome 🌿
 
 This is my little corner of GitHub.
