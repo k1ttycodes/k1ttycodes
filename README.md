@@ -1,16 +1,15 @@
-## Hi there 👋
+# 🌿 Hello.
 
-<!--
-**k1ttycodes/k1ttycodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my little corner of GitHub.
 
-Here are some ideas to get you started:
+Here I document the development of calm, privacy-first and open-source software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current project
+
+🌿 Mooswacht
+
+A local AI companion built with Python and Linux.
+
+---
+
+*"Every project begins as a small seed."*
