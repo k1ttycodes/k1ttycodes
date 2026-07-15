@@ -1,50 +1,41 @@
 <p align="center">
-  <img src="banner.png" alt="GitHub Banner" width="100%">
+  <img src="assets/banner/mooswacht_banner.png" alt="Mooswacht Banner" width="100%">
 </p>
 
-<br>
+# Willkommen 🌿
 
-# Welcome 🌿
+Ich bin Kitty und baue privacy-first, Open-Source-Software mit Fokus auf lokale KI, Nachhaltigkeit und Selbstbestimmung.
 
-This is my little corner of GitHub.
-
-Here I document my journey into local AI, privacy-first software and open-source technology.
-
-I believe software should be understandable, adaptable and belong to the people who use it.
-
----
-
-## Current field notes
+## Aktuelle Feldnotizen
 
 ### Mooswacht
 
-A local AI companion built with Python, Linux and open-source technologies.
+**Mooswacht** ist ein lokaler, datenschutzfreundlicher Open-Source-KI-Assistent für Zuhause, Alltag, Wissen, Naturbeobachtung und gemeinschaftliches Handeln.
 
-Mooswacht is growing from a terminal-based assistant into a personal companion that can understand natural language, organize tasks and appointments, remember useful information and eventually connect with a local smart home.
+Die Figur hinter Mooswacht heißt **Motte**.
 
-Long-term ideas include:
+Mooswacht verbindet:
 
-- local voice interaction
-- a self-developed companion app
-- ESP32 devices for different rooms
-- sensors and device control
-- a physical robotic form for Motte
+- lokale KI statt Cloud-Zwang
+- Open Source statt Blackbox
+- Home Assistant und Smart Home
+- Datenschutz und digitale Selbstbestimmung
+- Tier- und Naturschutz
+- Reparatur statt Neukauf
+- Sensoren und Umweltbeobachtung
+- Wissen, Bildung und Community
 
-The project is still young, and I am documenting each step as it grows.
+> Lokale KI. Offene Technik. Tiere schützen. Orte pflegen. Wissen teilen. Gemeinschaft stärken.
 
----
+## Woran ich arbeite
 
-## Areas I am exploring
+- Mooswacht als lokalen Python-KI-Agenten
+- Motte als persönliche Begleiterin und Projektfigur
+- Dokumentation für ein größeres Mooswacht-Ökosystem
+- Konzepte für App, Sensor-Kits, Mini-PCs, Community-Plugins und Reparaturservice
 
-- Local AI
-- Python
-- Linux
-- Privacy-first software
-- Open Source
-- Smart home systems
-- ESP32 and embedded devices
-- Human-centered technology
+## Grundidee
 
----
+Ich glaube, dass moderne Technik nicht automatisch Überwachung, Wegwerfgeräte und Konzernabhängigkeit bedeuten muss.
 
-> *Every project begins as a small seed.*
+Technik kann auch lokal, offen, reparierbar, ressourcenschonend, naturverbunden und gemeinschaftlich sein.
